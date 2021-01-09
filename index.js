@@ -229,7 +229,7 @@ const checkList = () => {
     "SELECT employee.id, employee.first_name, employee.last_name, employee.role_id, employee.manager_id, role.title, role.salary, role.department_id, department.name FROM employee INNER JOIN role ON role.id = employee.role_id INNER JOIN department ON department.id = role.department_id;",
     function (error, results, fields) {
       if (error) throw error;
-      console.table(results[0]);
+      console.table(results);
       start();
     }
   );
