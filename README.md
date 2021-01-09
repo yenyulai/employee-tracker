@@ -1,7 +1,6 @@
-employee-tracker
+# employee-tracker
 
-===
-![]()
+![](https://github.com/yenyulai/employee-tracker/blob/main/Assets/images/Employee-Tracker.gif)
 
 ## Installation
 
@@ -32,7 +31,7 @@ employee-tracker
   
   To generate the team in team.html
   
-  ![]()
+  ![](https://github.com/yenyulai/employee-tracker/blob/main/Assets/images/Employee-Tracker.gif)
   
 
 
