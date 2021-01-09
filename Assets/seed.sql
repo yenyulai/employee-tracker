@@ -1,9 +1,9 @@
-/* Seeds for SQL table. We haven't discussed this type of file yet */
+
 USE employee_DB;
 
-/* Insert 3 Rows into your new table */
+/* Insert 1 Rows into new table */
 INSERT INTO department (name)
-VALUES ("Software Development");
+VALUES ("IT");
 
 INSERT INTO role (title, salary, department_id)
 VALUES ("Team lead", 100000, 2);
