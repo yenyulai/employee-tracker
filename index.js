@@ -218,8 +218,6 @@ const updateEmployee = () => {
         }
       );
     } 
-    
-    start();
   });
 };
 
